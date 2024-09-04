@@ -16184,6 +16184,375 @@
          id="path5953"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     </symbol>
+    <symbol
+       id="connector_coaxial_power">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 223.57293,17.197945 h 2.64583"
+         id="path90"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="ellipse90"
+         cx="223.57294"
+         cy="17.197947"
+         rx="0.40116644"
+         ry="0.39901915" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="path91"
+         sodipodi:type="arc"
+         sodipodi:cx="223.57292"
+         sodipodi:cy="17.197945"
+         sodipodi:rx="1.3229131"
+         sodipodi:ry="1.3229131"
+         sodipodi:start="0.78539816"
+         sodipodi:end="5.4977871"
+         sodipodi:arc-type="arc"
+         d="m 224.50836,18.133385 a 1.3229131,1.3229131 0 0 1 -1.87088,0 1.3229131,1.3229131 0 0 1 0,-1.870881 1.3229131,1.3229131 0 0 1 1.87088,0"
+         sodipodi:open="true" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 219.60418,17.197945 h 2.6387"
+         id="path92"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </symbol>
+    <symbol
+       id="connector_RS-232">
+      <path
+         id="path80"
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="m 193.93961,311.15002 h 6.34997 c 0.29316,0 0.56554,0.23828 0.52918,0.52918 l -0.26459,2.11666 c -0.0364,0.2909 -0.23602,0.52918 -0.52918,0.52918 h -5.82082 c -0.29316,0 -0.49282,-0.23828 -0.52918,-0.52918 l -0.26456,-2.11666 c -0.0364,-0.2909 0.23602,-0.52918 0.52918,-0.52918 z"
+         sodipodi:nodetypes="sssssssss" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="ellipse80"
+         cx="194.46875"
+         cy="312.20837"
+         rx="0.26601034"
+         ry="0.26458651" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="ellipse81"
+         cx="195.79025"
+         cy="312.20837"
+         rx="0.26601034"
+         ry="0.26458651" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="ellipse82"
+         cx="197.11316"
+         cy="312.20837"
+         rx="0.26601034"
+         ry="0.26458651" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="ellipse83"
+         cx="198.43608"
+         cy="312.20837"
+         rx="0.26601034"
+         ry="0.26458651" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="ellipse84"
+         cx="199.759"
+         cy="312.20837"
+         rx="0.26601034"
+         ry="0.26458651" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="ellipse85"
+         cx="195.1283"
+         cy="313.26669"
+         rx="0.26601034"
+         ry="0.26458651" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="ellipse86"
+         cx="196.4498"
+         cy="313.26669"
+         rx="0.26601034"
+         ry="0.26458651" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="ellipse87"
+         cx="197.77271"
+         cy="313.26669"
+         rx="0.26601034"
+         ry="0.26458651" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="ellipse88"
+         cx="199.09563"
+         cy="313.26669"
+         rx="0.26601034"
+         ry="0.26458651" />
+      <ellipse
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="ellipse89"
+         cx="191.82292"
+         cy="312.73758"
+         rx="0.53174019"
+         ry="0.52920848" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect89"
+         width="13.229149"
+         height="4.7624869"
+         x="190.5"
+         y="310.35629"
+         rx="0.52917969"
+         ry="0.52917969" />
+      <ellipse
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="use89"
+         cx="202.40483"
+         cy="312.73758"
+         rx="0.53174019"
+         ry="0.52920848" />
+    </symbol>
+    <symbol
+       id="connector_pin_2x1">
+      <g
+         id="g75">
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+           d="m 219.60417,309.56252 h 2.64584"
+           id="path74" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.47625;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+           d="m 222.25001,309.56252 h -0.79375"
+           id="path75" />
+      </g>
+      <g
+         id="use75"
+         transform="translate(-1.2910455e-6,1.3229342)">
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+           d="m 219.60417,309.56252 h 2.64584"
+           id="path78" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.47625;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+           d="m 222.25001,309.56252 h -0.79375"
+           id="path79" />
+      </g>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect75"
+         width="2.3812535"
+         height="2.9104118"
+         x="220.66251"
+         y="308.7688"
+         rx="0.26457599"
+         ry="0.26457599" />
+    </symbol>
+    <symbol
+       id="connector_pin_3x1">
+      <g
+         id="g69">
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+           d="m 219.60417,309.56252 h 2.64584"
+           id="path68" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.47625;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+           d="m 222.25001,309.56252 h -0.79375"
+           id="path69" />
+      </g>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect69"
+         width="2.3812561"
+         height="4.2333045"
+         x="220.66251"
+         y="308.7688"
+         rx="0.26457599"
+         ry="0.26457599" />
+      <g
+         id="g71"
+         transform="translate(0,1.3229167)">
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+           d="m 219.60417,309.56252 h 2.64584"
+           id="path70" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.47625;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+           d="m 222.25001,309.56252 h -0.79375"
+           id="path71" />
+      </g>
+      <g
+         id="g73"
+         transform="translate(0,2.6458334)">
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+           d="m 219.60417,309.56252 h 2.64584"
+           id="path72" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.47625;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+           d="m 222.25001,309.56252 h -0.79375"
+           id="path73" />
+      </g>
+    </symbol>
+    <symbol
+       id="connector_pin_4x1">
+      <g
+         id="g54">
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+           d="m 219.60417,309.56252 h 2.64584"
+           id="path53" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.47625;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+           d="m 222.25001,309.56252 h -0.79375"
+           id="path54" />
+      </g>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect54"
+         width="2.3812561"
+         height="5.556221"
+         x="220.66251"
+         y="308.7688"
+         rx="0.26457599"
+         ry="0.26457599" />
+      <g
+         id="use54"
+         transform="translate(0,1.3229165)">
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+           d="m 219.60417,309.56252 h 2.64584"
+           id="path62" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.47625;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+           d="m 222.25001,309.56252 h -0.79375"
+           id="path63" />
+      </g>
+      <g
+         id="use55"
+         transform="translate(0,2.6458332)">
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+           d="m 219.60417,309.56252 h 2.64584"
+           id="path64" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.47625;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+           d="m 222.25001,309.56252 h -0.79375"
+           id="path65" />
+      </g>
+      <g
+         id="use56"
+         transform="translate(0,3.96875)">
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+           d="m 219.60417,309.56252 h 2.64584"
+           id="path66" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.47625;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+           d="m 222.25001,309.56252 h -0.79375"
+           id="path67" />
+      </g>
+    </symbol>
+    <symbol
+       id="connector_USB">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+         id="rect3"
+         width="4.7624998"
+         height="2.6458333"
+         x="205.58125"
+         y="310.88544"
+         rx="0.26457599"
+         ry="0.26457599" />
+      <path
+         id="path18"
+         style="stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+         d="m 202.40623,310.35631 h 5.29169 v 3.70413 h -5.29169 c -0.73289,0 -1.3229,-0.51626 -1.3229,-1.15753 v -1.38908 c 0,-0.64126 0.59001,-1.15752 1.3229,-1.15752 z"
+         sodipodi:nodetypes="sccssss" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+         id="rect25"
+         width="2.5135632"
+         height="1.5874848"
+         x="199.89272"
+         y="311.41461"
+         rx="0.52915859"
+         ry="0.52915859" />
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+         id="rect26"
+         width="2.645838"
+         height="0.52916664"
+         x="198.43752"
+         y="311.94379"
+         rx="0"
+         ry="0" />
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+         id="rect27"
+         width="0.52916664"
+         height="0.52916664"
+         x="208.75627"
+         y="311.41461" />
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+         id="rect28"
+         width="0.52916664"
+         height="0.52916664"
+         x="208.75627"
+         y="312.47293" />
+      <circle
+         style="fill:#ffffff;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+         id="circle28"
+         cx="202.40625"
+         cy="312.20837"
+         r="0.42915335" />
+      <circle
+         style="fill:#ffffff;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+         id="use41"
+         cx="205.05209"
+         cy="310.88547"
+         r="0.42915335" />
+      <rect
+         style="fill:#ffffff;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+         id="rect41"
+         width="0.7937631"
+         height="0.79376519"
+         x="205.05208"
+         y="313.00211" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+         id="path43"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="708"
+         sodipodi:cy="1655.0001"
+         sodipodi:r1="2"
+         sodipodi:r2="1"
+         sodipodi:arg1="0"
+         sodipodi:arg2="1.0471976"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 710,1655.0001 -1.5,0.866 -1.5,0.8661 v -1.7321 -1.732 l 1.5,0.866 z"
+         transform="matrix(0.26458333,0,0,0.26458333,19.05,-125.67708)"
+         inkscape:transform-center-x="-0.13228931"
+         inkscape:transform-center-y="-5.516667e-06" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+         d="m 202.40626,312.20836 h 3.96875"
+         id="path44" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+         d="m 205.05209,310.88544 h -1.05833 l -0.79375,1.32292"
+         id="path51" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+         d="m 205.44896,313.39898 h -0.92604 l -0.52916,-1.19062"
+         id="path52"
+         sodipodi:nodetypes="ccc" />
+    </symbol>
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -16217,7 +16586,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
      inkscape:cy="1537.6668"
-     inkscape:cx="624.01404"
+     inkscape:cx="624.19085"
      inkscape:zoom="2.8276608"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -46782,42 +47151,6 @@
          x="191.55833"
          id="tspan26349-0"
          sodipodi:role="line">Coaxial power</tspan></text>
-    <g
-       id="connector_coaxial_power"
-       transform="translate(-35.718756,260.61459)">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 223.57293,17.197945 h 2.64583"
-         id="path90"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <ellipse
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         id="ellipse90"
-         cx="223.57294"
-         cy="17.197947"
-         rx="0.40116644"
-         ry="0.39901915" />
-      <path
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         id="path91"
-         sodipodi:type="arc"
-         sodipodi:cx="223.57292"
-         sodipodi:cy="17.197945"
-         sodipodi:rx="1.3229131"
-         sodipodi:ry="1.3229131"
-         sodipodi:start="0.78539816"
-         sodipodi:end="5.4977871"
-         sodipodi:arc-type="arc"
-         d="m 224.50836,18.133385 a 1.3229131,1.3229131 0 0 1 -1.87088,0 1.3229131,1.3229131 0 0 1 0,-1.870881 1.3229131,1.3229131 0 0 1 1.87088,0"
-         sodipodi:open="true" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 219.60418,17.197945 h 2.6387"
-         id="path92"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-    </g>
     <text
        id="text38"
        y="284.42712"
@@ -46829,101 +47162,6 @@
          x="198.43752"
          id="tspan38"
          sodipodi:role="line">RS-232</tspan></text>
-    <g
-       id="connector_RS-232"
-       transform="translate(-6.6145763,-29.104173)">
-      <path
-         id="path80"
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         d="m 193.93961,311.15002 h 6.34997 c 0.29316,0 0.56554,0.23828 0.52918,0.52918 l -0.26459,2.11666 c -0.0364,0.2909 -0.23602,0.52918 -0.52918,0.52918 h -5.82082 c -0.29316,0 -0.49282,-0.23828 -0.52918,-0.52918 l -0.26456,-2.11666 c -0.0364,-0.2909 0.23602,-0.52918 0.52918,-0.52918 z"
-         sodipodi:nodetypes="sssssssss" />
-      <ellipse
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         id="ellipse80"
-         cx="194.46875"
-         cy="312.20837"
-         rx="0.26601034"
-         ry="0.26458651" />
-      <ellipse
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         id="ellipse81"
-         cx="195.79025"
-         cy="312.20837"
-         rx="0.26601034"
-         ry="0.26458651" />
-      <ellipse
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         id="ellipse82"
-         cx="197.11316"
-         cy="312.20837"
-         rx="0.26601034"
-         ry="0.26458651" />
-      <ellipse
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         id="ellipse83"
-         cx="198.43608"
-         cy="312.20837"
-         rx="0.26601034"
-         ry="0.26458651" />
-      <ellipse
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         id="ellipse84"
-         cx="199.759"
-         cy="312.20837"
-         rx="0.26601034"
-         ry="0.26458651" />
-      <ellipse
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         id="ellipse85"
-         cx="195.1283"
-         cy="313.26669"
-         rx="0.26601034"
-         ry="0.26458651" />
-      <ellipse
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         id="ellipse86"
-         cx="196.4498"
-         cy="313.26669"
-         rx="0.26601034"
-         ry="0.26458651" />
-      <ellipse
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         id="ellipse87"
-         cx="197.77271"
-         cy="313.26669"
-         rx="0.26601034"
-         ry="0.26458651" />
-      <ellipse
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         id="ellipse88"
-         cx="199.09563"
-         cy="313.26669"
-         rx="0.26601034"
-         ry="0.26458651" />
-      <ellipse
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         id="ellipse89"
-         cx="191.82292"
-         cy="312.73758"
-         rx="0.53174019"
-         ry="0.52920848" />
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-         id="rect89"
-         width="13.229149"
-         height="4.7624869"
-         x="190.5"
-         y="310.35629"
-         rx="0.52917969"
-         ry="0.52917969" />
-      <ellipse
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         id="use89"
-         cx="202.40483"
-         cy="312.73758"
-         rx="0.53174019"
-         ry="0.52920848" />
-    </g>
     <text
        id="text41"
        y="289.98337"
@@ -46957,150 +47195,6 @@
          x="188.38335"
          id="tspan47"
          sodipodi:role="line">3×1 pin</tspan></text>
-    <g
-       id="connector_pin_2x1"
-       transform="translate(-35.718746,-21.16665)">
-      <g
-         id="g75">
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-           d="m 219.60417,309.56252 h 2.64584"
-           id="path74" />
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.47625;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-           d="m 222.25001,309.56252 h -0.79375"
-           id="path75" />
-      </g>
-      <g
-         id="use75"
-         transform="translate(-1.2910455e-6,1.3229342)">
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-           d="m 219.60417,309.56252 h 2.64584"
-           id="path78" />
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.47625;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-           d="m 222.25001,309.56252 h -0.79375"
-           id="path79" />
-      </g>
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-         id="rect75"
-         width="2.3812535"
-         height="2.9104118"
-         x="220.66251"
-         y="308.7688"
-         rx="0.26457599"
-         ry="0.26457599" />
-    </g>
-    <g
-       id="connector_pin_3x1"
-       transform="translate(-35.718746,-17.1979)">
-      <g
-         id="g69">
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-           d="m 219.60417,309.56252 h 2.64584"
-           id="path68" />
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.47625;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-           d="m 222.25001,309.56252 h -0.79375"
-           id="path69" />
-      </g>
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-         id="rect69"
-         width="2.3812561"
-         height="4.2333045"
-         x="220.66251"
-         y="308.7688"
-         rx="0.26457599"
-         ry="0.26457599" />
-      <g
-         id="g71"
-         transform="translate(0,1.3229167)">
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-           d="m 219.60417,309.56252 h 2.64584"
-           id="path70" />
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.47625;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-           d="m 222.25001,309.56252 h -0.79375"
-           id="path71" />
-      </g>
-      <g
-         id="g73"
-         transform="translate(0,2.6458334)">
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-           d="m 219.60417,309.56252 h 2.64584"
-           id="path72" />
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.47625;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-           d="m 222.25001,309.56252 h -0.79375"
-           id="path73" />
-      </g>
-    </g>
-    <g
-       id="connector_pin_4x1"
-       transform="translate(-35.718746,-11.906233)">
-      <g
-         id="g54">
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-           d="m 219.60417,309.56252 h 2.64584"
-           id="path53" />
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.47625;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-           d="m 222.25001,309.56252 h -0.79375"
-           id="path54" />
-      </g>
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-         id="rect54"
-         width="2.3812561"
-         height="5.556221"
-         x="220.66251"
-         y="308.7688"
-         rx="0.26457599"
-         ry="0.26457599" />
-      <g
-         id="use54"
-         transform="translate(0,1.3229165)">
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-           d="m 219.60417,309.56252 h 2.64584"
-           id="path62" />
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.47625;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-           d="m 222.25001,309.56252 h -0.79375"
-           id="path63" />
-      </g>
-      <g
-         id="use55"
-         transform="translate(0,2.6458332)">
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-           d="m 219.60417,309.56252 h 2.64584"
-           id="path64" />
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.47625;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-           d="m 222.25001,309.56252 h -0.79375"
-           id="path65" />
-      </g>
-      <g
-         id="use56"
-         transform="translate(0,3.96875)">
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-           d="m 219.60417,309.56252 h 2.64584"
-           id="path66" />
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.47625;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-           d="m 222.25001,309.56252 h -0.79375"
-           id="path67" />
-      </g>
-    </g>
     <text
        id="text27"
        y="307.89011"
@@ -47112,105 +47206,29 @@
          x="196.52618"
          id="tspan27"
          sodipodi:role="line">USB</tspan></text>
-    <g
-       id="connector_USB"
-       transform="translate(-14.552092,-5.29167)">
-      <rect
-         style="fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
-         id="rect3"
-         width="4.7624998"
-         height="2.6458333"
-         x="205.58125"
-         y="310.88544"
-         rx="0.26457599"
-         ry="0.26457599" />
-      <path
-         id="path18"
-         style="stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
-         d="m 202.40623,310.35631 h 5.29169 v 3.70413 h -5.29169 c -0.73289,0 -1.3229,-0.51626 -1.3229,-1.15753 v -1.38908 c 0,-0.64126 0.59001,-1.15752 1.3229,-1.15752 z"
-         sodipodi:nodetypes="sccssss" />
-      <rect
-         style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
-         id="rect25"
-         width="2.5135632"
-         height="1.5874848"
-         x="199.89272"
-         y="311.41461"
-         rx="0.52915859"
-         ry="0.52915859" />
-      <rect
-         style="fill:#000000;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
-         id="rect26"
-         width="2.645838"
-         height="0.52916664"
-         x="198.43752"
-         y="311.94379"
-         rx="0"
-         ry="0" />
-      <rect
-         style="fill:#000000;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
-         id="rect27"
-         width="0.52916664"
-         height="0.52916664"
-         x="208.75627"
-         y="311.41461" />
-      <rect
-         style="fill:#000000;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
-         id="rect28"
-         width="0.52916664"
-         height="0.52916664"
-         x="208.75627"
-         y="312.47293" />
-      <circle
-         style="fill:#ffffff;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
-         id="circle28"
-         cx="202.40625"
-         cy="312.20837"
-         r="0.42915335" />
-      <circle
-         style="fill:#ffffff;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
-         id="use41"
-         cx="205.05209"
-         cy="310.88547"
-         r="0.42915335" />
-      <rect
-         style="fill:#ffffff;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
-         id="rect41"
-         width="0.7937631"
-         height="0.79376519"
-         x="205.05208"
-         y="313.00211" />
-      <path
-         sodipodi:type="star"
-         style="fill:#ffffff;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
-         id="path43"
-         inkscape:flatsided="false"
-         sodipodi:sides="3"
-         sodipodi:cx="708"
-         sodipodi:cy="1655.0001"
-         sodipodi:r1="2"
-         sodipodi:r2="1"
-         sodipodi:arg1="0"
-         sodipodi:arg2="1.0471976"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m 710,1655.0001 -1.5,0.866 -1.5,0.8661 v -1.7321 -1.732 l 1.5,0.866 z"
-         transform="matrix(0.26458333,0,0,0.26458333,19.05,-125.67708)"
-         inkscape:transform-center-x="-0.13228931"
-         inkscape:transform-center-y="-5.516667e-06" />
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
-         d="m 202.40626,312.20836 h 3.96875"
-         id="path44" />
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
-         d="m 205.05209,310.88544 h -1.05833 l -0.79375,1.32292"
-         id="path51" />
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
-         d="m 205.44896,313.39898 h -0.92604 l -0.52916,-1.19062"
-         id="path52"
-         sodipodi:nodetypes="ccc" />
-    </g>
+    <use
+       xlink:href="#connector_coaxial_power"
+       id="use1"
+       transform="translate(-35.718756,260.61459)" />
+    <use
+       xlink:href="#connector_RS-232"
+       id="use2"
+       transform="translate(-6.6145763,-29.104173)" />
+    <use
+       xlink:href="#connector_pin_2x1"
+       id="use3"
+       transform="translate(-35.718746,-21.16665)" />
+    <use
+       xlink:href="#connector_pin_3x1"
+       id="use4"
+       transform="translate(-35.718746,-17.1979)" />
+    <use
+       xlink:href="#connector_pin_4x1"
+       id="use5"
+       transform="translate(-35.718746,-11.906233)" />
+    <use
+       xlink:href="#connector_USB"
+       id="use6"
+       transform="translate(-14.552092,-5.29167)" />
   </g>
 </svg>
