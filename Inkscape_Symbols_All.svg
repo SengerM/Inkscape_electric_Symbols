@@ -16553,6 +16553,24 @@
          id="path52"
          sodipodi:nodetypes="ccc" />
     </symbol>
+    <symbol
+       id="ADC_analog_to_digital_converter">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 320.14585,281.78128 v 2.64584 h -3.96875 l -1.32292,-1.32292 1.32292,-1.32292 z"
+         id="path22" />
+      <text
+         xml:space="preserve"
+         style="font-size:1.76389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="316.02716"
+         y="283.73392"
+         id="text22"><tspan
+           sodipodi:role="line"
+           id="tspan22"
+           x="316.02716"
+           y="283.73392"
+           style="font-size:1.76389px;stroke-width:0.264583">ADC</tspan></text>
+    </symbol>
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -16585,9 +16603,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="1537.6668"
-     inkscape:cx="624.19085"
-     inkscape:zoom="2.8276608"
+     inkscape:cy="1438.2675"
+     inkscape:cx="782.93351"
+     inkscape:zoom="11.449887"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1.0"
@@ -47230,5 +47248,35 @@
        xlink:href="#connector_USB"
        id="use6"
        transform="translate(-14.552092,-5.29167)" />
+    <g
+       id="g24">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 320.14585,281.78128 v 2.64584 h -3.96875 l -1.32292,-1.32292 1.32292,-1.32292 z"
+         id="path19" />
+      <text
+         xml:space="preserve"
+         style="font-size:1.76389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="316.02716"
+         y="283.73392"
+         id="text4411-0-6"><tspan
+           sodipodi:role="line"
+           id="tspan4409-2-75"
+           x="316.02716"
+           y="283.73392"
+           style="font-size:1.76389px;stroke-width:0.264583">ADC</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 314.85416,283.10419 h -1.32291"
+         id="path20" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 320.14583,283.10419 h 1.32292"
+         id="path21" />
+    </g>
+    <use
+       xlink:href="#ADC_analog_to_digital_converter"
+       id="use24"
+       transform="translate(-93.927075,-27.781238)" />
   </g>
 </svg>
